@@ -79,6 +79,27 @@ Racial Groups included:
 Age sections has around 1529 under 25, 1576 over 45 and 4109 between 25 - 45
 Risk section has 3897 Low, 1914 medium and 1403 High.
 
+## 6. Challenge Goals update
+
+### Machine Learning and Artifical Intelligence
+ the data has been uploaded and i was also abel to explore with visulizations done with python frameowkr.s in the next step, i will have to involve the training and also understanding the differences of the machine learning models
+
+ ##$ Result Validity
+ the EDA is able to identify the risk scores as well as the recidivism of the two years across different age groups and racial groups. 
+
+In the visulizations we are able to see the different statistics and understand the different patterns. Moroever, we still do know if these visulizations are able to prove that age and race play a factor so there needs to be further exploratios and testing.
+
+### 7. Work Plan Evaluation
+
+My workplan includes understanding the dataset, clenaing it and creating the visulizations and i was able to do that with this project. 
+
+I was able to obtain the data, load it and read the necessary information to create the statistics and visulizations. furthermore, i need to training and create the comparison.
+
+### 8. Testing
+There is a file in this directory that has test_eda.py/ which tests the dataset i have and wether it include the columns needed. The test was executed successfully and passed all the tests i wrote. 
+
+### Collaboration
+The project used COMPAS dataset  and analysis resources.
 ## Data Visulizations: Risk Score  by race
 ![COMPAS risk scores by race](visualizations/risk_scores_by_race.png)
 
