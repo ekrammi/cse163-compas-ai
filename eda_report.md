@@ -4,6 +4,8 @@
 **Course:** CSE163
 **Date:** November 2026
 
+**My Github:** https://github.com/ekrammi/cse163-compas-ai 
+
 ## Summary of Findings and Research Questions
 
 In this project, i look through the COMPAS file to investigate differences in AI risk assessments in different groups of people across different age groups.
